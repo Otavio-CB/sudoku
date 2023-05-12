@@ -25,7 +25,3 @@ Faça as alterações necessárias e adicione novos testes, se aplicável.
 Certifique-se de que todos os testes passam.
 Envie sua branch com as alterações: git push origin minha-branch
 Abra um Pull Request para que possamos revisar suas alterações.
-
-### Licença 📋
-
-Este projeto é licenciado sob a licença MIT - consulte o arquivo LICENSE para obter mais detalhes.
