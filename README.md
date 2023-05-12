@@ -8,7 +8,6 @@ Clone ou faça o download deste repositório em sua máquina local.
 Certifique-se de ter o Python instalado em sua máquina. Caso não tenha, você pode baixá-lo aqui: https://www.python.org/downloads/
 Navegue até o diretório onde o jogo foi baixado e abra o terminal.
 Digite python sudoku.py para executar o jogo.
-Escolha um nível de dificuldade: fácil, médio ou difícil.
 O jogo iniciará e você poderá começar a jogar.
 
 ### Requisitos 📜
