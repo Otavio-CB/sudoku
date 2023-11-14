@@ -1,26 +1,28 @@
-# Sudoku em Python
+# Sudoku em Python 🎲
 
-Este é um jogo de Sudoku feito em Python. É um jogo baseado em texto onde o jogador pode escolher um nível de dificuldade e, em seguida, jogar o Sudoku. O jogo foi desenvolvido usando a linguagem de programação Python.
+Bem-vindo ao Sudoku em Python! Este é um jogo baseado em texto onde você pode desfrutar de desafios de Sudoku em diferentes níveis de dificuldade. 🕹️
 
-### Como jogar 🕹️
+## Como jogar
 
-Clone ou faça o download deste repositório em sua máquina local.
-Certifique-se de ter o Python instalado em sua máquina. Caso não tenha, você pode baixá-lo aqui: https://www.python.org/downloads/
-Navegue até o diretório onde o jogo foi baixado e abra o terminal.
-Digite python sudoku.py para executar o jogo.
-O jogo iniciará e você poderá começar a jogar.
+1. Clone ou faça o download deste repositório em sua máquina local.
+2. Certifique-se de ter o Python instalado em sua máquina. Caso não tenha, você pode baixá-lo [aqui](https://www.python.org/downloads/).
+3. Navegue até o diretório onde o jogo foi baixado e abra o terminal.
+4. Digite `python sudoku.py` para iniciar o jogo.
+5. Escolha um nível de dificuldade e comece a jogar.
 
-### Requisitos 📜
+## Requisitos 📜
 
 Este jogo requer o Python 3.7 ou superior.
 
-### Contribuindo 👨‍💻
+## Contribuindo 👨‍💻
 
-Sinta-se à vontade para contribuir com melhorias. Para isso, você pode seguir o seguinte fluxo:
+Sinta-se à vontade para contribuir com melhorias! Para isso, siga o seguinte fluxo:
 
-Faça um fork deste repositório.
-Crie uma nova branch com suas alterações: git checkout -b minha-branch
-Faça as alterações necessárias e adicione novos testes, se aplicável.
-Certifique-se de que todos os testes passam.
-Envie sua branch com as alterações: git push origin minha-branch
-Abra um Pull Request para que possamos revisar suas alterações.
+1. Faça um fork deste repositório.
+2. Crie uma nova branch com suas alterações: `git checkout -b minha-branch`.
+3. Faça as alterações necessárias e adicione novos testes, se aplicável.
+4. Certifique-se de que todos os testes passam.
+5. Envie sua branch com as alterações: `git push origin minha-branch`.
+6. Abra um Pull Request para que possamos revisar suas alterações.
+
+Aproveite o jogo e boas contribuições! 🚀
