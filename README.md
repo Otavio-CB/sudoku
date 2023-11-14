@@ -8,7 +8,6 @@ Bem-vindo ao Sudoku em Python! Este é um jogo baseado em texto onde você pode 
 2. Certifique-se de ter o Python instalado em sua máquina. Caso não tenha, você pode baixá-lo [aqui](https://www.python.org/downloads/).
 3. Navegue até o diretório onde o jogo foi baixado e abra o terminal.
 4. Digite `python sudoku.py` para iniciar o jogo.
-5. Escolha um nível de dificuldade e comece a jogar.
 
 ## Requisitos 📜
 
